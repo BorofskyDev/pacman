@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    background-color: #000000;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif
+}
+
+body {
+    padding: 10px 50px;
+}
+
+p {
+    margin-bottom: 10px;
+}
